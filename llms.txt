@@ -1,0 +1,44 @@
+# Front Desk Guide
+
+> Independent reviews, comparisons, and buyer guides for AI phone receptionists
+> and AI front desks for local businesses. Run by Jason O’Keefe, an AI
+> front-desk operator.
+
+## About
+
+- An AI receptionist is software that answers a business phone line itself:
+  holds a real conversation, books appointments, and transfers urgent calls.
+- This site reviews AI receptionist services honestly: no sponsored rankings,
+  no invented ratings. Reviews carry a verdict only after genuine hands-on evaluation.
+- Affiliate disclosure: some links earn us a commission at no extra cost to the reader.
+  Full disclosure: https://aifrontdeskguide.com/affiliate-disclosure/
+
+## Key pages
+
+- Home: https://aifrontdeskguide.com/
+- Reviews: https://aifrontdeskguide.com/reviews/
+- Comparisons: https://aifrontdeskguide.com/comparisons/
+- Buyer guides: https://aifrontdeskguide.com/guides/
+- By trade: https://aifrontdeskguide.com/for/
+- Newsletter: https://aifrontdeskguide.com/newsletter/
+- About: https://aifrontdeskguide.com/about/
+
+## Comparisons
+
+- [Upfirst vs. My AI Front Desk (Frontdesk): Which AI Receptionist Should You Buy?](https://aifrontdeskguide.com/comparisons/upfirst-vs-my-ai-front-desk/): Upfirst vs My AI Front Desk compared on verified 2026 pricing: Upfirst from $24.95/mo per-call billing vs Frontdesk $99/mo multi-channel credits. Cost scenarios, features, and who should pick which.
+
+## Guides
+
+- [Do AI Receptionists Transfer to a Human? The Escalation Questions to Ask Before You Buy](https://aifrontdeskguide.com/guides/ai-receptionist-human-escalation-guide/): Gartner finds 87% of customers consider access to a human agent essential when companies use GenAI for service. Here is what to ask about human escalation — transfer triggers, live-transfer behavior, and human backup tiers — before you buy an AI receptionist.
+- [AI Receptionist vs. Answering Service: Which Should Your Business Use?](https://aifrontdeskguide.com/guides/ai-receptionist-vs-answering-service/): AI receptionist vs traditional answering service compared honestly: cost ($25–$300/mo vs $300–$2,100/mo), hours, capabilities, and when a human still wins. Verified 2026 pricing.
+- [Best AI Receptionist for Plumbers in 2026: Goodcall vs Vapi, Honestly Compared](https://aifrontdeskguide.com/guides/best-ai-receptionist-for-plumbers/): Choosing an AI receptionist for a plumbing business? A plumbing-specific, honest comparison of Goodcall and Vapi — after-hours emergencies, dispatch, long calls, price shoppers — plus which shops each one fits. Prices verified October 2026.
+- [Front Office: the Contractor-Only AI Receptionist at $299–$449 Flat — Email Summaries, Not Calendar Booking](https://aifrontdeskguide.com/guides/front-office-contractor-ai-receptionist/): Front Office is a trade-specific AI receptionist built inside a working home-service contractor: $299/month for up to 60 calls, $449 for 61–200, flat rate, live in two business days. The honest gap: it emails call details but does not book into a calendar.
+- [Goodcall Black Friday Deals 2026: Current Pricing Verified — No Holiday Deal Announced Yet](https://aifrontdeskguide.com/guides/goodcall-black-friday-deals-2026/): Early-bird Goodcall deal watch: Starter $79, Growth $129, and Scale $299 per month with unlimited minutes, verified on Goodcall's own pricing page, and no Black Friday 2026 deal announced as of October 25, 2026. This page updates when real holiday terms appear.
+- [How Much Does an AI Receptionist Cost in 2026? Real Pricing Compared](https://aifrontdeskguide.com/guides/how-much-does-an-ai-receptionist-cost/): AI receptionist pricing in 2026, verified October 2026: Goodcall from $79/mo with unlimited minutes, Vapi from $0.05/min plus provider costs. Compare billing models and learn what actually drives your bill.
+- [Vapi Black Friday Deals 2026: Developer Pricing, No Holiday Sale Expected](https://aifrontdeskguide.com/guides/vapi-black-friday-deals-2026/): Early-bird Vapi deal watch: $0.05 per minute hosting plus provider costs passed through at cost, with a $29/month Core tier, and no Black Friday 2026 deal announced as of October 25, 2026. This page updates if real holiday terms ever appear.
+- [Voksha: the $14 AI Receptionist — Per-Call Pricing, a Security Pitch, and a Booking Catch](https://aifrontdeskguide.com/guides/voksha-per-call-ai-receptionist/): Voksha prices its AI receptionist per call, not per minute: $14/month for 15 calls, $99 for 150, $1 per extra call, with SOC 2 and ISO 27001 compliance claimed. The catch: appointment booking and integrations start only on the $99 Premium plan.
+- [Zoom Is Now the Cheapest Big-Name AI Receptionist: $25 a Month for 100 Minutes, on Any Phone System](https://aifrontdeskguide.com/guides/zoom-ai-receptionist-price-floor/): Zoom Virtual Agent Receptionist now sells standalone for $25/month billed annually for 100 minutes and works with any phone system — no carrier change. What the 100-minute allowance really buys, and where it loses to per-caller plans like Goodcall.
+
+## Contact
+
+- Via the newsletter page; every issue is reply-able.

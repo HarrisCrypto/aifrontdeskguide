@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+
+Sitemap: https://aifrontdeskguide.com/sitemap-index.xml
