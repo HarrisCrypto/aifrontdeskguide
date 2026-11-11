@@ -1,1 +1,26 @@
-<!-- temporary placeholder - replaced by exact file upload -->
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'Almost done — check your inbox · The Front Desk Brief',
+  description: 'You subscribed to The Front Desk Brief. One confirmation click in your inbox finishes the signup.',
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="announcement" />
+  <section class="mx-auto max-w-2xl px-4 py-16 sm:px-6 lg:px-8">
+    <p class="text-sm font-semibold uppercase tracking-widest text-primary">Newsletter</p>
+    <h1 class="font-headline mt-2 text-4xl font-bold md:text-5xl">Almost done — check your inbox</h1>
+    <p class="mt-4 text-lg text-muted">
+      You&rsquo;re one click from getting The Front Desk Brief. We just sent a confirmation email to the address you
+      entered — open it and click the confirm link, and you&rsquo;re subscribed. That&rsquo;s the only extra step, and
+      it keeps someone else from signing you up without your say-so.
+    </p>
+    <p class="mt-4 text-muted">
+      It usually arrives within a couple of minutes. If you don&rsquo;t see it, check your spam or promotions folder.
+      Nothing arrived? You can <a href="/newsletter/" class="underline hover:text-primary">try signing up again</a>.
+    </p>
+    <a href="/" class="btn-premium mt-8 inline-block">Back to the homepage</a>
+  </section>
+</Layout>
